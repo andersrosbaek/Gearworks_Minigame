@@ -1,0 +1,137 @@
+fileFormatVersion: 2
+guid: 2b712d899b55e5544aa57a2589c061a8
+timeCreated: 1442180518
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: joint10
+    100002: joint11
+    100004: joint12
+    100006: joint14
+    100008: joint15
+    100010: joint16
+    100012: KanonBody
+    100014: //RootNode
+    100016: Leg_Left
+    100018: Leg_Left 1
+    100020: Leg_Left_InverseKinematic
+    100022: Leg_Left_InverseKinematicFoot
+    100024: Leg_Right
+    100026: Leg_Right 1
+    100028: Leg_Right_InverseKinematic
+    100030: Leg_Right_InverseKinematic_Foot
+    100032: Leg_Something
+    100034: Legs
+    100036: Legs1
+    100038: Lunte
+    100040: LunteCylinder
+    100042: transform1
+    100044: transform2
+    100046: transform3
+    400000: joint10
+    400002: joint11
+    400004: joint12
+    400006: joint14
+    400008: joint15
+    400010: joint16
+    400012: KanonBody
+    400014: //RootNode
+    400016: Leg_Left
+    400018: Leg_Left 1
+    400020: Leg_Left_InverseKinematic
+    400022: Leg_Left_InverseKinematicFoot
+    400024: Leg_Right
+    400026: Leg_Right 1
+    400028: Leg_Right_InverseKinematic
+    400030: Leg_Right_InverseKinematic_Foot
+    400032: Leg_Something
+    400034: Legs
+    400036: Legs1
+    400038: Lunte
+    400040: LunteCylinder
+    400042: transform1
+    400044: transform2
+    400046: transform3
+    2300000: KanonBody
+    2300002: Lunte
+    2300004: LunteCylinder
+    3300000: KanonBody
+    3300002: Lunte
+    3300004: LunteCylinder
+    4300000: KanonBody
+    4300002: LunteCylinder
+    4300004: Lunte
+    4300006: Leg_Right
+    4300008: Leg_Left
+    7400000: Vippe
+    7400002: Vugge
+    7400004: Jogge
+    7400006: Dingle
+    7400008: Spjaette
+    7400010: Hop
+    9500000: //RootNode
+    13700000: Leg_Left 1
+    13700002: Leg_Right 1
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
